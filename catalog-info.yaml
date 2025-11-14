@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: coding-demo-repo-2025-10-14-0926
+  description: A software component for demonstrating coding practices and techniques.
+  annotations:
+    github.com/project-slug: Ayush-Singh3/coding_demo_repo-2025-10-14-0926
+    jira/project-key: SCRUM
+    jira/label: backstage-component:coding-demo-repo-2025-10-14-0926
+spec:
+  type: application
+  owner: ICS
+  lifecycle: experimental
